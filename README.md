@@ -10,3 +10,5 @@ Auto split project.
 1. Collect the dependencies of the aimed project, and then copy to target dir.
 
 2. Use config file to include extra files not in dependencies
+
+3. Css, images, and fonts should also be included in.
